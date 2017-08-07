@@ -1,4 +1,4 @@
-# selenium_proc
+# selenium_proc_control
 Gerenciamento dos componentes para a execução dos testes funcionais
 
 Esse projeto irá controlar todos os componentes necessários para a execução dos testes funcionais. 
